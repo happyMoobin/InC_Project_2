@@ -6,6 +6,19 @@
 - AWS S3를 사용해 원본 및 모자이크 처리된 영상을 안전하게 저장하고, CloudFront로 빠르고 안전한 콘텐츠 전송 제공(추가 예정)
 - 서비스 상태 모니터링을 위해 AWS CloudWatch사용, Auto Scaling이 감지되면 Slack에 알림이 가도록 구현
 - IAM 역할과 보안 그룹 설정을 통해 안전한 서비스 운영 환경 조성.
+
+<br>
+
 ---
 ### 프로젝트 아키텍처
 ![Project2_Architecture](https://github.com/user-attachments/assets/38b6a68e-a38c-459b-b03c-299b7bde900f)
+
+<br>
+
+---
+### 프로젝트 아키텍처 수정본
+![image](https://github.com/user-attachments/assets/98d6a8df-713b-4ffa-93f1-7b9280b55544)
+
+<br>
+<br>
+<br>
