@@ -17,7 +17,7 @@
 
 ---
 ### 프로젝트 아키텍처 수정본
-![image](https://github.com/user-attachments/assets/98d6a8df-713b-4ffa-93f1-7b9280b55544)
+![Image](https://github.com/user-attachments/assets/0b384227-660c-42ce-a5a2-695a650c468f)
 
 <br>
 <br>
